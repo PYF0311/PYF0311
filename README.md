@@ -2,7 +2,6 @@
 
 _This is Niko_
 
-I'm a BTCHODLer
             
 <!--
 **PYF0311/PYF0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
