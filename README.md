@@ -1,5 +1,16 @@
 ## Hi there 👋  This is Niko
 
+- SDE
+- MS CS @UNSW
+- Tianjin➡️Amoy➡️Sydney
+- aWSB Family
+
+- Interest：
+      🎵 Vocal / J-pop / Soul / Jazz
+      💻 All about 3C / Smart Home / SONY
+      ⚖️ BTC HODLer 
+            
+            
 <!--
 **PYF0311/PYF0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
