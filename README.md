@@ -4,10 +4,10 @@ _This is Niko_
 
 - SDE
 - MS CS @UNSW
-- Tianjin➡️Amoy➡️Sydney
+- Tianjin ➡️ Amoy ➡️ Sydney
 - Interest:
-  - 🎵 Vocal / J-pop / Soul / Jazz
-  - 💻 All about 3C / Smart Home / SONY
+  - 🎵  Vocal / J-pop / Soul / Jazz
+  - 💻  All about 3C / Smart Home / SONY
   - ⚖️ BTC HODLer 
             
 <!--
