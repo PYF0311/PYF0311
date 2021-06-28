@@ -1,6 +1,5 @@
 ## Hi there 👋  
 
-_This is >/_n1k0_
 
             
 <!--
